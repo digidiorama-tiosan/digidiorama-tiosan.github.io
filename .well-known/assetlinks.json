@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.digidiorama_tiosan.twa",
-    "sha256_cert_fingerprints": ["XX:XX:..."]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.digidiorama.rumahdesign3d",
+        "sha256_cert_fingerprints": ["D7:30:0E:54:B7:CC:51:D2:76:05:30:2D:C0:12:68:16:92:32:A0:54:8B:F1:69:61:1A:E6:92:46:94:8A:8C:9D"]
+      }
+    }]
